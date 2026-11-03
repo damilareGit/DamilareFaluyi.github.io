@@ -26,7 +26,7 @@ window.SITE = {
   name: "Damilare Faluyi",
   role: "Portfolio Risk Analyst",
   location: "Lagos, Nigeria",
-  headline: "I measure how loan books behave, then turn it into rules, prices and early warnings that protect them.",
+  headline: "I help lenders see risk, before it becomes loss.",
   intro:
     "Credit risk and portfolio analytics in consumer lending: IFRS 9 expected credit loss, decision-engine rules, NPL migration, first-payment-default diagnostics, stress testing and risk-based pricing. Studying for an MSc in Financial Engineering at WorldQuant University.",
   email: "faluyidamilare95@gmail.com",
